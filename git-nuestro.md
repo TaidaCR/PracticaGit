@@ -1,3 +1,5 @@
+TITULO: "PRACTICA DE GIT"
+
 Git nuestro 1
 
 *Git* nuestro que estas en los repos 
