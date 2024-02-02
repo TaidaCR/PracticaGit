@@ -1,4 +1,8 @@
-Git nuestro 
+
+TITULO: "PRACTICA DE GIT"
+
+Git nuestro 1
+
 *Git* nuestro que estas en los repos 
 Comprimidos sean tus *commits*
 Venga a nosotros tu *log*
